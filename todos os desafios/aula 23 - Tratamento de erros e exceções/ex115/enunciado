@@ -1,0 +1,4 @@
+programa que permite cadastro de pessoas pelo seu nome e idade, criando um arquivo de texto simples.
+O "sistema" tem apenas 2 opções:
+    cadastrar uma nova pessoa e
+    listar todas as pessoas cadastradas
